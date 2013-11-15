@@ -35,31 +35,31 @@ Skills<a name="skills"></a>
   6. [Python](python)
 
 ### HTML<a name="html"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about html.
 
 ### CSS<a name="css"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about this skill.
 
 ### JS<a name="js"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about this skill.
 
 ### PHP<a name="php"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about this skill.
 
 ### Ruby<a name="ruby"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about this skill.
 
 ### Python<a name="python"></a> ###
-[&#x25B2; Skill List](#skills)
+<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
 
 This is a paragraph about this skill.
