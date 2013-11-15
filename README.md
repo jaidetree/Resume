@@ -27,12 +27,12 @@ Jobs
 [skills]: Skills
 ------
 
-  1. [HTML][html]
-  2. [CSS][css]
-  3. [JS][js]
-  4. [PHP][php]
-  5. [Ruby][ruby]
-  6. [Python][python]
+  1. [HTML](#html)
+  2. [CSS](css)
+  3. [JS](js)
+  4. [PHP](php)
+  5. [Ruby](ruby)
+  6. [Python](python)
 
 [html]: ### HTML ###
 
