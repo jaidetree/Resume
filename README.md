@@ -35,31 +35,43 @@ Skills<a name="skills"></a>
   6. [Python](python)
 
 ### HTML<a name="html"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
-
 This is a paragraph about html.
 
-### CSS<a name="css"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
+*[&#x25B2; Skill List](#skills)*
 
-This is a paragraph about this skill.
+---------------------------------------
+
+### CSS<a name="css"></a> ###
+This is a paragraph about html.
+
+*[&#x25B2; Skill List](#skills)*
+
+---------------------------------------
 
 ### JS<a name="js"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
+This is a paragraph about html.
 
-This is a paragraph about this skill.
+*[&#x25B2; Skill List](#skills)*
+
+---------------------------------------
 
 ### PHP<a name="php"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
+This is a paragraph about html.
 
-This is a paragraph about this skill.
+*[&#x25B2; Skill List](#skills)*
+
+---------------------------------------
 
 ### Ruby<a name="ruby"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
+This is a paragraph about html.
 
-This is a paragraph about this skill.
+*[&#x25B2; Skill List](#skills)*
+
+---------------------------------------
 
 ### Python<a name="python"></a> ###
-<span style="font-size: 9px;">*[&#x25B2; Skill List](#skills)*</span>
+This is a paragraph about html.
 
-This is a paragraph about this skill.
+*[&#x25B2; Skill List](#skills)*
+
+---------------------------------------
