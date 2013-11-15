@@ -24,7 +24,8 @@ Jobs
   2. 2011 - 2012: Xugo Studios, LLC. - Co-owner, Web Designer & Developer
   3. 2012 - 2013: Instevent, LLC. - Front-end Designer & Developer (though the CTO sometimes lets me do some back-end python as a treat)
 
-[skills]: Skills
+<div id="skills">
+Skills
 ------
 
   1. [HTML](#html)
@@ -33,7 +34,10 @@ Jobs
   4. [PHP](php)
   5. [Ruby](ruby)
   6. [Python](python)
+</div>
 
-[html]: ### HTML ###
+<div id="html">
+### HTML ###
 
 This is a paragraph about html.
+</div>
