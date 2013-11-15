@@ -36,24 +36,30 @@ Skills<a name="skills"></a>
 
 ### HTML<a name="html"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about html.
 
 ### CSS<a name="css"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about this skill.
 
 ### JS<a name="js"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about this skill.
 
 ### PHP<a name="php"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about this skill.
 
 ### Ruby<a name="ruby"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about this skill.
 
 ### Python<a name="python"></a> ###
 [&#x25B2; Skill List](#skills)
+
 This is a paragraph about this skill.
